@@ -1,0 +1,13 @@
+D:\RevitAddIn\Flex\Flex.Revit.2023\bin\Debug\Flex.Revit.2023.dll
+D:\RevitAddIn\Flex\Flex.Revit.2023\bin\Debug\Flex.Revit.2023.pdb
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.2023.csproj.AssemblyReference.cache
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.2023.csproj.CoreCompileInputs.cache
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.2023.dll
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.2023.pdb
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.2023.csproj.GenerateResource.cache
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.Column.resources
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.Properties.Resources.resources
+D:\RevitAddIn\Flex\Flex.Revit.2023\obj\Debug\Flex.Revit.Footing.resources
+D:\RevitAddIn\Flex\Flex.Revit.2023\bin\Debug\Resources\32x32\column.png
+D:\RevitAddIn\Flex\Flex.Revit.2023\bin\Debug\Resources\32x32\footing.png
+D:\RevitAddIn\Flex\Flex.Revit.2023\bin\Debug\Resources\32x32\info.png

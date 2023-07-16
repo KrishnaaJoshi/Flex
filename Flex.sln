@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Flex.Revit.sharedProject", "Flex.Revit.sharedProject\Flex.Revit.sharedProject.shproj", "{7FCE48DB-CDB0-41BC-972D-F3E9D30C8879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flex.Revit.2023", "Flex.Revit.2023\Flex.Revit.2023.csproj", "{7E85CDE5-73DA-4014-BD27-316BD7C54552}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E85CDE5-73DA-4014-BD27-316BD7C54552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E85CDE5-73DA-4014-BD27-316BD7C54552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E85CDE5-73DA-4014-BD27-316BD7C54552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E85CDE5-73DA-4014-BD27-316BD7C54552}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B79BA715-102F-44A0-A201-0D840578C48B}
+	EndGlobalSection
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Flex.Revit.sharedProject\Flex.Revit.sharedProject.projitems*{7e85cde5-73da-4014-bd27-316bd7c54552}*SharedItemsImports = 4
+		Flex.Revit.sharedProject\Flex.Revit.sharedProject.projitems*{7fce48db-cdb0-41bc-972d-f3e9d30c8879}*SharedItemsImports = 13
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>Flex</Name>
+		<Assembly>Flex\Flex.Revit.2023.dll</Assembly>
+		<FullClassName>Flex.Revit.AppCommand</FullClassName>
+		<AddInId>3D1CA7C8-83E1-481C-B98E-6B26322AFB28</AddInId>
+		<VendorId>Krishna Joshi</VendorId>
+		<VendorDescription>https://github.com/KrishnaJoshi-BIM</VendorDescription>
+	</AddIn>
+</RevitAddIns>
+
